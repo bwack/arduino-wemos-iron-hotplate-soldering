@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name wemos_mini)(type Legacy)(uri ${EXTERNAL}/wemos-d1-mini-kicad/libraries/wemos_mini.lib)(options "")(descr ""))
+  (lib (name SparkFun-AnalogIC)(type Legacy)(uri ${EXTERNAL}/SparkFun-Kicad-Libraries/SparkFun-AnalogIC.lib)(options "")(descr ""))
+)
